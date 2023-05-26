@@ -22,6 +22,10 @@ To know more about [`OpenCV Python`](https://opencv.org/) Click [Here](https://o
 
 
 
+#### OutPut:
+> This is how the OutPut Looks like
+> 
+> [![OpenCVOutPut](ss/ss1.PNG)](https://apparky.vercel.app/)
 
 
 
